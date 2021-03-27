@@ -1,1 +1,4 @@
-console.log("Hello World")
+let firstName = "Reva"
+let greeting = "hello " + firstName
+
+console.log(greeting)
